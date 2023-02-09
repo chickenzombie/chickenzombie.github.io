@@ -1,1 +1,1 @@
-# WordPress landing page
+# WordPress
